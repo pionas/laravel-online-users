@@ -1,5 +1,5 @@
 {
-    "name": "kim/activity",
+    "name": "kim/activityNew",
     "description": "Easily retrieve a list of users and guests that are online.",
     "keywords": [
         "laravel",
@@ -16,10 +16,10 @@
         }
     ],
     "require": {
-        "illuminate/support": "^5.2",
-        "illuminate/session": "^5.2",
-        "illuminate/database": "^5.2",
-        "php" : ">=5.5.9"
+        "illuminate/support": "^7.0",
+        "illuminate/session": "^7.0",
+        "illuminate/database": "^7.0",
+        "php": "^7.2.5",
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
